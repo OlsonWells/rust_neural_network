@@ -1,4 +1,4 @@
-Basic implementation of neural networks on Rust.
+From Scratch implementation of neural networks on Rust.
 
 # How to run :
 
